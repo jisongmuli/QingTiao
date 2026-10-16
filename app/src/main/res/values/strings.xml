@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">轻跳</string>
+    <string name="service_name">轻跳自动跳过</string>
+    <string name="service_description">读取当前界面的按钮文字和控件 ID，在设备本地识别并点击可跳过的广告。可选的自定义规则会按指定应用执行。</string>
+    <string name="service_disclosure_format">%1$s\n轻跳通过无障碍读取当前界面的按钮并自动点击，全程在本机处理。</string>
+    <string name="click_count">已自动点击 %1$d 次</string>
+    <string name="vivo_service_hint">vivo / iQOO 提示：部分系统会在设置等页面临时关闭服务。开启后请彻底退出系统设置，返回轻跳等待约 8–15 秒，不必反复切换开关。</string>
+</resources>
